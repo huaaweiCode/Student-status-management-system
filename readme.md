@@ -1,6 +1,4 @@
-
 # 学籍管理系统
-
 
 ## 1、项目介绍
 
@@ -26,23 +24,21 @@
 
 ### 4.1 功能模块
 
-![专业管理](https://img-blog.csdnimg.cn/img_convert/4ecc801216a096b7ab70a4c9f3ea01d1.jpeg)
+![专业管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211191843042.jpg)
 
-![班级管理](https://img-blog.csdnimg.cn/img_convert/dea4f6327c05de06d3e3d7d3b4b7e032.jpeg)
+![班级管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211191843595.jpg)
 
-![课程管理](https://img-blog.csdnimg.cn/img_convert/91c759b1bd690b90e7ea206f234378d2.jpeg)
+![课程管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211191843345.jpg)
 
-![学籍管理](https://img-blog.csdnimg.cn/img_convert/cb974bee81ca7043a41c38059a40c79b.jpeg)
+![学籍管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211191843928.jpg)
 
-![成绩管理](https://img-blog.csdnimg.cn/img_convert/c741c388cdc7a2c918ad034ff4abaf0b.jpeg)
+![成绩管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211191843139.jpg)
 
-![奖惩管理](https://img-blog.csdnimg.cn/img_convert/eb30f3fb592edc3cacb1b4baa754cf70.jpeg)
+![奖惩管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211191843389.jpg)
 
 ### 4.2文档目录
 
-![文档目录](https://img-blog.csdnimg.cn/img_convert/80e19f988054abedd8da9859577b600d.jpeg)
-### 获取方式&视频演示
+![文档目录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211191843031.jpg)
 
-下方扫一下，回复关键词：学籍
 
-![gitee](https://img-blog.csdnimg.cn/img_convert/51270b183d3a2125e3ecbec1717c2824.png)
+
